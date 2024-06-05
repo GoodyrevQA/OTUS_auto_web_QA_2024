@@ -1,5 +1,5 @@
 # OTUS_hw1
-[![Header](https://github.com/GoodyrevQA/OTUS_hw1/blob/main/assets/OTUS.png)](https://github.com/GoodyrevQA/OTUS_hw1)
+[![Header](https://github.com/GoodyrevQA/OTUS_hw1/blob/main/assets/OTUS.jpg)](https://github.com/GoodyrevQA/OTUS_hw1)
 
 ### Languages and Tools used:
 [![Pycharm](https://img.shields.io/badge/-Pycharm-24292f??style=for-the-badge&logo=Pycharm&logoColor=79ae42)](https://github.com/GoodyrevQA)

@@ -1,4 +1,4 @@
-# OTUS_hw1
+# OTUS_auto_web_QA_2024
 [![Header](https://github.com/GoodyrevQA/OTUS_hw1/blob/main/assets/OTUS.jpg)](https://github.com/GoodyrevQA/OTUS_hw1)
 
 ### Languages and Tools used:
